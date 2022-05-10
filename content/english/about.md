@@ -1,7 +1,7 @@
 +++
-title = "About"
+title = "About Yaneth"
 description = "C-MOOR portfolio site"
 date = "2021-05-24"
 +++
 
-This is a "hello world" example portfolio website for [C-MOOR](https://github.com/C-MOOR). The theme was forked from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).  Theme and example content were modified by [Katherine Cox](https://github.com/KatherineCox) for use by C-MOOR learners.
+Yaneth is a 2nd year Clovis Community College student majoring in Biology. She plans on transfering to a UC in the fall of 2023. Her interest including research, reading, and creating. 
