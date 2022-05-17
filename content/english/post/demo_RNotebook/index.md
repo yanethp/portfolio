@@ -12,5 +12,5 @@ Check out this [awesome R Notebook](RNotebook_demo.nb.html) and poster I made!
 
 It looks at the inteaction between the Lefty genes in mouse gastrulation, specifically what stages and celltypes.
 
-![](Project Poster.jpg)
+![]( Project Poster.jpg )
 
