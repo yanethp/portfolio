@@ -1,7 +1,7 @@
 +++
-author = "Katherine Cox"
+author = "Yaneth Perez"
 title = "Genomics Research Project"
-date = "2021-05-25"
+date = "2022-05-17"
 description = "A post announcing and linking to an R Notebook"
 tags = [
     "R"
