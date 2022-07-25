@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Check out this [awesome R Notebook](https://apps.sciserver.org/dockervm14/51f321f7-f966-11ec-82c5-5254001d4703/files/workspace/Storage/yanethp/persistent/Lefty_Genes.nb.html) and poster I made! 
+Check out this [awesome R Notebook](https://apps.sciserver.org/dockervm41/96b23ac8-0922-11ed-82c5-5254001d4703/files/workspace/Storage/yanethp/persistent/Lefty_Genes.nb.html) and poster I made! 
 
 It looks at the inteaction between the Lefty genes in mouse gastrulation, specifically what stages and celltypes.
 
