@@ -14,4 +14,4 @@ It looks at the inteaction between the Lefty genes in mouse gastrulation, specif
 
 ![Project Poster](https://user-images.githubusercontent.com/104724541/168899478-f69bebae-8362-4f42-851b-a4fb6f740bb4.jpg)
 
-![] (SU22_poster.png)
+![] (https://raw.githubusercontent.com/yanethp/portfolio/main/static/images/SU22_poster.png)
